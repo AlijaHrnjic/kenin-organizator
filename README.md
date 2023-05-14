@@ -47,6 +47,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Firebase deploy
 
-### `firebase login`
-### `firebase init`
-### `firebase deploy`
+### `firebase login` not required
+### `firebase init` not required
+### `npm run build`
+### `firebase deploy - only hosting`
